@@ -3,7 +3,7 @@ layout:     post
 title:      开源框架剖析-内存leakcanary
 subtitle:   实时监测内存泄露
 date:       2020-03-9
-author:     ZYT
+author:     ZP
 header-img: img/post-bg-offer.jpeg
 catalog: true
 tags:

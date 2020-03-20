@@ -3,7 +3,7 @@ layout:     post
 title:      UI卡顿优化blockcanary
 subtitle:   巧用handler.dispatchMessage实现
 date:       2020-03-11
-author:     ZYT
+author:     ZP
 header-img: img/post-bg-offer.jpeg
 catalog: true
 tags:

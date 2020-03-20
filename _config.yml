@@ -1,14 +1,14 @@
 # Site settings
 # 参考https://www.jianshu.com/p/e68fba58f75c#Rename
-title: ZYT Blog
-SEOTitle: 赵永涛的博客 | ZYT Blog
+title: ZP Blog
+SEOTitle: 张朋的博客 | ZP Blog
 header-img: img/post-bg-android.jpg
-email: 285929232@qq.com
+email: 823628383@qq.com
 description: "Strive for a better future."
-keyword: "ZYT, ZYT Blog, 赵永涛的博客, zhaoyongtao, 赵永涛, Android, google, Java"
-url: "http://android-zhaoyongtao.github.io"          # your host, for absolute URL
+keyword: "ZP, ZP Blog, 张朋的博客, zhangpeng, 张朋, Android, google, Java"
+url: "https://zp6934.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/android-zhaoyongtao/android-zhaoyongtao.github.io.git" # you code repository
+github_repo: "https://github.com/zp6934/zp6934.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -19,12 +19,12 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     zhaoyongtao
-#zhihu_username:     zhaoyongtao
-github_username:    android-zhaoyongtao
-#facebook_username:  zhaoyongtao
-#jianshu_username:   e71990ada2fd
-#twitter_username:   zhaoyongtao
+# weibo_username:     zhangpeng
+#zhihu_username:     张朋
+github_username:    zp6934
+#facebook_username:  zhangpeng
+#jianshu_username:   六_爷
+#twitter_username:   zhangpeng
 
 
 
@@ -58,16 +58,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: zhaoyongtao
+# disqus_username: zhangpeng
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 01e9805b69cf77524846                            #生成的clientID
   clientSecret: 02367ac7ac7a4609c44f56e7b92ae77c16d2ec7b    #生成的clientSecret
-  repo: android-zhaoyongtao.github.io    #存储你评论 issue 的 Github 仓库名（建议直接用 GitHub Page 的仓库名）
-  owner: android-zhaoyongtao    #github用户名
-  admin: android-zhaoyongtao    #['Github 用户名'], //这个仓库的管理员，可以有多个，用数组表示，一般写自己
+  repo: zp6934.github.io    #存储你评论 issue 的 Github 仓库名（建议直接用 GitHub Page 的仓库名）
+  owner: zp6934    #github用户名
+  admin: zp6934    #['Github 用户名'], //这个仓库的管理员，可以有多个，用数组表示，一般写自己
   distractionFreeMode: false #是否启用类似FB的阴影遮罩
 
 
@@ -99,6 +99,10 @@ service-worker: true
 
 # Friends
 friends: [
+    {
+  title: "张朋博客",
+  href: "https://android-zhaoyongtao.github.io"
+    },
     {
         title: "zdongの博客",
         href: "https://blog.zoudongq123.cn"

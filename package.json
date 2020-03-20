@@ -1,14 +1,14 @@
 {
     "name": "zyt-blog",
-    "title": "ZYT Blog",
-    "author": "ZYT <285929232@qq.com>",
+    "title": "ZP Blog",
+    "author": "ZP <285929232@qq.com>",
     "version": "1.7.0",
-    "homepage": "http://android-zhaoyongtao.github.io",
+    "homepage": "http://zp6934.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/android-zhaoyongtao/android-zhaoyongtao.github.io"
+        "url": "https://github.com/zp6934/zp6934.github.io"
     },
-    "bugs": "https://github.com/android-zhaoyongtao/android-zhaoyongtao.github.io/issues",
+    "bugs": "https://github.com/zp6934/zp6934.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",

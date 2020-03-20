@@ -3,7 +3,7 @@ layout:     post
 title:      开源框架剖析-图片加载Glide
 subtitle:   Glide，google官方推荐框架
 date:       2020-03-7
-author:     ZYT
+author:     ZP
 header-img: img/post-bg-offer.jpeg
 catalog: true
 tags:

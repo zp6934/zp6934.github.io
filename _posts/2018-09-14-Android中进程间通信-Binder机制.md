@@ -3,7 +3,7 @@ layout:     post
 title:      Android中进程通信-Binder机制
 subtitle:   Binder机制介绍
 date:       2018-09-14
-author:     ZYT
+author:     ZP
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:

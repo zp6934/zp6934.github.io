@@ -1,6 +1,6 @@
 {
-  "name": "ZYT Blog",
-  "short_name": "ZYT Blog",
+  "name": "ZP Blog",
+  "short_name": "ZP Blog",
   "description": "A personal blog by engineer",
   "icons": [{
     "src": "icons/pwa_icon_128.png",

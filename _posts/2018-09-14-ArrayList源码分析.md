@@ -3,7 +3,7 @@ layout:     post
 title:      ArrayList源码分析
 subtitle:   基于jdk-1.8
 date:       2018-09-14
-author:     ZYT
+author:     ZP
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
