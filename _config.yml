@@ -100,7 +100,7 @@ service-worker: true
 # Friends
 friends: [
     {
-  title: "张朋博客",
+  title: "赵永涛的博客",
   href: "https://android-zhaoyongtao.github.io"
     },
     {
